@@ -20,6 +20,10 @@ jobs:
       with:
         enable_cache: true
     
+    - name: install ncftp
+      run: |
+        sudo apt-get install -y ncftp
+    
     - name: Upload site to FTP.
       env: 
         ftp_location: ${{ secrets.ftp_location }}
