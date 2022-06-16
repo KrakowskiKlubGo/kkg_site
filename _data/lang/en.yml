@@ -1,0 +1,94 @@
+main:
+  language:
+    language_reference: en
+  header:
+    name: Cracow Go Club
+  navbar:
+    about: Club
+    meetings: Meetings
+    contact: Contact
+    tournament: Tournament!
+    second_language: Polski
+    second_language_reference: pl
+  intro:
+    header: Welcome on our website!
+    text_1: We are group of people who like to play the game of
+    text_2: . We create the Cracow Go Club and for many years we organize meetings for people who like to play go in good atmosphere.
+  meetings:
+    map_header: Meetings
+    map_description: Meetings take place on Wednesdays at 6:00 PM in Artefakt Cafe
+    map_adress_1: ul. Dajwór 3,
+    map_adress_2: 31-052 Kraków
+    section_1_header: Artefakt cafe
+    section_1_text: We meet in a place where you can drink good beer and more. There is a garden in the back, where we usually hang out in the summer.
+    section_2_header: Players
+    section_2_text: Our Club members represent a wide range of skill levels - from beginner DDKs, to internationally-known Dan players like 5 dan Koichiro Habu!
+    section_3_header: Beginners are welcome
+    section_3_text: You don't need to know how to play the go game to join us. Your curiosity is enough, and we'll teach you everything.
+    section_4_header: Club League
+    section_4_text: To make it more interesting, we started league games in our club. Anyone can join it and fight for a beer! More information on our
+    section_5_header: We organize tournaments!
+    section_5_text: Cracow tournaments are great opportunity to meet players from all over Poland and fight for ranking points and prizes. Next tournament will be soon!
+  contact:
+    header: Contact with us
+
+tournament_2022:
+  language:
+    language_reference: en
+    second_language_name: Polski
+    second_language: pl
+  navbar:
+    title: Dragon Stone 2022
+    nav_1: Venue
+    nav_2: Details
+    nav_3: Schedule
+    nav_4: Registration
+    nav_5: Sponsors
+    nav_6: Contact
+  header:
+    name: Dragon Stone Tournament 2022
+    date: Cracow <br> 23-24 April 2022
+  info:
+    name: Venue
+    place_1: Faculty of Mathematics and Computer Science Jagiellonian University
+    place_2: "ul. Prof. Stanisława Łojasiewicza 6, 30-348 Kraków"
+    place_3: first floor, room 1016
+  harmonogram:
+    name: Schedule
+    day1_header: "23 April - Saturday"
+    day1_1: "9:00 - registration"
+    day1_2: "9:30 - first round"
+    day1_3: "12:30 - second round"
+    day1_4: "16:00 - lunch break"
+    day1_5: "16:30 - third round"
+    day1_6: "20:00 - afterparty in Artefakt Cafe ul.Dajwór 4"
+    day2_header: "24 April - Sunday"
+    day2_1: "9:30 - fourth round"
+    day2_2: "12:30 - fifth round"
+    day2_3: "16:30 - results announcement, prizegiving"
+  rules:
+    name: Details
+    rule_1: "Organisers: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_2: "Tournament's main referee: Adam Białożyt"
+    rule_3: "Tournament class: A"
+    rule_4: "Rounds: 5"
+    rule_5: "Time setting: 60 min + 20s byo-yomi"
+    rule_6: "System: MacMahon"
+    rule_7: "Ruleset: japanese, 6.5 komi"
+    rule_8: "Even games"
+    rule_9: "15 min delay is treated as game forfeiting"
+    rule_10: "Entry fee"
+    rule_10_1: "30 zł before 14 April"
+    rule_10_2: "40 zł after 14 April and on-site"
+    rule_10_3: "15% discount for players under 10 kyu"
+    rule_11: Estimated prize pool 1500 zł. <br> Prizes in main, beginners and series-of-wins categories.
+
+  registration:
+    name: Registration
+    info: Early registration and the list of registered competitors on Competit website.
+    button: Go to Competit
+  sponsors:
+    name: Sponsors
+    sponsor_1: Omni Calculator
+  contact:
+    name: Contact
