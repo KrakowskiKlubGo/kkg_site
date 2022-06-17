@@ -12,11 +12,11 @@ permalink: pretty
 
 plugins:
   - jekyll-feed
-  - jekyll-language-plugin
+  - jekyll-multiple-languages-plugin
 
-# jekyll language plugin config
-language_data: data.lang.%%
-language_includes_dir: _i18n
+
+languages: ["pl", "en"]
+exclude_from_localizations: ["js", "img", "css", "scss", "README.md", "vendor", "package.json", "package-lock.json"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

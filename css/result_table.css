@@ -1,0 +1,42 @@
+
+table{
+   margin:1em 0;
+   width:100%;
+}
+
+.content table.simple,.content table.tournament-results{
+   font-size:10px;
+}
+
+table.simple tr:first-child:hover td,table.tournament-results tr:first-child:hover td{
+   background-color:#fff !important;
+}
+table.simple tr:first-child td:hover,table.tournament-results th:first-child td:hover{
+   background-color:#fff !important;
+}
+table.simple .current td:hover,table.tournament-results .current td:hover{
+   background-color:#D5EABB;
+}
+table.simple .current td,table.tournament-results .current td{
+   background-color:#E8F2DF;
+}
+table.simple .won td,table.tournament-results .won td{
+   background-color:#74db01
+}
+table.simple .won .game,table.tournament-results .won .game{
+   background-color:#18A218;
+   color:white;
+}
+table.simple .lost td,table.tournament-results .lost td{
+   background-color:#FC8383;
+}
+table.simple .lost .game,table.tournament-results .lost .game{
+   background-color:#A21818;
+   color:white;
+}
+table.simple .jigo td,table.tournament-results .jigo td{
+   background-color:lightgray
+}
+table.simple .jigo .game,table.tournament-results .jigo .game{
+   background-color:darkgray;
+}

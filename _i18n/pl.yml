@@ -1,0 +1,89 @@
+language:
+  second_language_reference: en
+  language_reference: pl
+  second_language: English
+header:
+  name: Krakowski Klub Go
+navbar:
+  about: Klub
+  meetings: Spotkania
+  contact: Kontakt
+  tournament: Turniej!
+intro:
+  header: Witaj na naszej stronie!
+  text_1: Jesteśmy grupą osób lubiących grać w prostą i ciekawą gre o nazwie
+  text_2: . Wspólnie od lat jako Krakowski Klub Go organizujemy spotkania, na których można pograć w Go w przyjaznej atmosferze.
+meetings:
+  map_header: Spotkania
+  map_description: Spotkania odbywają się w środy od godziny 18:00 w lokalu Artefakt Cafe
+  map_adress_1: ul. Dajwór 3,
+  map_adress_2: 31-052 Kraków
+  section_1_header: Artefakt cafe
+  section_1_text: Spotykamy się w świetnym miejscu, w którym można napić się dobrego piwa i nie tylko. Z tyłu lokalu znajduje się ogródek, w którym zwykle przesiadujemy w lecie.
+  section_2_header: Klubowicze
+  section_2_text: Nasi Klubowicze prezentują szeroki zakres zaawansowania - od początkujących graczy DDK, po znanych na arenie międzynarodowej danowców takich jak Koichiro Habu 5 dan!
+  section_3_header: Zapraszamy początkujących
+  section_3_text: Nie musisz umieć grać w Go aby do nas dołączyć. Wystarczą tylko chęci i ciekawość, a wszystkiego Cię nauczymy.
+  section_4_header: Klubowa Liga
+  section_4_text: Żeby było ciekawiej prowadzimy w naszym klubie rozgrywki ligowe. Każdy może do niej dołączyć i zawalczyć o symboliczne piwo! Więcej informacji na naszym klubowym kanale
+  section_5_header: Organizujemy turnieje!
+  section_5_text: Krakowskie turnieje to doskonała okazja aby spotkać graczy go z całej Polski oraz zawalczyć o punkty rankingowe i nagrody. Najbliższy turniej już w krótce!
+contact:
+  header: W razie wątpliwości napisz do nas!
+
+tournament_2022:
+  navbar:
+    title: Smoczy Kamień 2022
+    nav_1: Miejsce
+    nav_2: Szczegóły
+    nav_3: Harmonogram
+    nav_4: Zapisy
+    nav_5: Sponsorzy
+    nav_6: Kontakt
+  header:
+    name: Turniej o Smoczy Kamień 2022
+    date: Kraków <br> 23-24 Kwietnia 2022
+  info:
+    name: Miejsce
+    place_1: Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego
+    place_2: "ul. Prof. Stanisława Łojasiewicza 6, 30-348 Kraków"
+    place_3: piętro 1, pokój 1016
+  harmonogram:
+    name: Harmonogram
+    day1_header: "23 kwietnia - Sobota"
+    day1_1: "9:00 - rejestracja"
+    day1_2: "9:30 - pierwsza runda"
+    day1_3: "12:30 - druga runda"
+    day1_4: "16:00 - przerwa obiadowa"
+    day1_5: "16:30 - trzecia runda"
+    day1_6: "20:00 - afterparty w Artefakt Cafe ul.Dajwór 4"
+    day2_header: "24 kwietnia - Niedziela"
+    day2_1: "9:30 - czwarta runda"
+    day2_2: "12:30 - piąta runda"
+    day2_3: "16:30 - ogłoszenie wyników i rozdanie nagród"
+  rules:
+    name: Szczegóły
+    rule_1: "Organizatorzy: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_2: "Sędzia: Adam Białożyt"
+    rule_3: "Klasa turnieju: A"
+    rule_4: "Rundy: 5"
+    rule_5: "Czas: 60 min + 20s byo-yomi"
+    rule_6: "System: MacMahon"
+    rule_7: "Zasady: japońskie, 6.5 komi"
+    rule_8: "Gry równe"
+    rule_9: "Spóźnienie 15 min oznacza poddanie gry"
+    rule_10: "Wpisowe"
+    rule_10_1: "30 zł do 14 kwietnia"
+    rule_10_2: "40 zł po 14 kwietnia i w dniu turnieju"
+    rule_10_3: "15% zniżki gracze poniżej 10 kyu"
+    rule_11: Przewidywana pula nagród 1500zł. <br> Nagrody w kategoriach głównych, dla początkujących i serii zwycięstw.
+
+  registration:
+    name: Zapisy
+    info: Wczesna rejestracja oraz lista zarejestrowanych uczestników znajdują się na stronie Competit.
+    button: Przejdź do Competit
+  sponsors:
+    name: Sponsorzy
+    sponsor_1: Omni Calculator
+  contact:
+    name: Kontakt

@@ -25,10 +25,19 @@
           </a>
         </li> -->
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/{% t 'navbar.second_language_reference' %}/">
-            <img src="../img/{% t 'navbar.second_language_reference' %}.svg" alt="{% t 'navbar.second_language' %}"
-            style="height: 20px;vertical-align: top;">
-          </a>
+          {% if site.lang == "pl" %}
+            {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+            <a class="nav-link js-scroll-trigger" href="{{ link1 }}" >
+              <img src="../img/en.svg" alt="{% t 'language.second_language' %}"
+              style="height: 20px;vertical-align: top;">
+            </a>
+          {% elsif site.lang == "en" %}
+            {% capture link2 %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+            <a class="nav-link js-scroll-trigger" href="{{ link2 }}" >
+              <img src="../img/pl.svg" alt="{% t 'language.second_language' %}"
+              style="height: 20px;vertical-align: top;">
+            </a
+          {% endif %}
         </li>
       </ul>
     </div>
