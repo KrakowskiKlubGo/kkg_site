@@ -1,6 +1,6 @@
 language:
   second_language_reference: en
-  language_reference: pl
+  language_reference: ""
   second_language: English
 header:
   name: Krakowski Klub Go
@@ -27,7 +27,8 @@ meetings:
   section_4_header: Klubowa Liga
   section_4_text: Żeby było ciekawiej prowadzimy w naszym klubie rozgrywki ligowe. Każdy może do niej dołączyć i zawalczyć o symboliczne piwo! Więcej informacji na naszym klubowym kanale
   section_5_header: Organizujemy turnieje!
-  section_5_text: Krakowskie turnieje to doskonała okazja aby spotkać graczy go z całej Polski oraz zawalczyć o punkty rankingowe i nagrody. Najbliższy turniej już w krótce!
+  section_5_text: Krakowskie turnieje to doskonała okazja aby spotkać graczy go z całej Polski oraz zawalczyć o punkty rankingowe i nagrody.
+  section_5_2_text: Najbliższy turniej już w sierpniu!
 contact:
   header: W razie wątpliwości napisz do nas!
 
@@ -87,3 +88,52 @@ tournament_2022:
     sponsor_1: Omni Calculator
   contact:
     name: Kontakt
+
+mini-1:
+  navbar:
+    title: Jednodniowy turniej handicapowy
+    nav_1: Miejsce
+    nav_2: Szczegóły
+    nav_3: Harmonogram
+    nav_4: Zapisy
+    nav_5: Sponsorzy
+    nav_6: Kontakt
+  header:
+    name: Wakacyjny Turniej Krakowski
+    date: Kraków <br> 6 Sierpnia 2022
+  info:
+    name: Miejsce
+    place_1: Shop Gracz
+    place_2: "ul. Bolesława Limanowskiego 16"
+    place_3: 30-534 Kraków
+  harmonogram:
+    name: Harmonogram
+    day1_header: "6 Sierpnia 2022 - Sobota"
+    day1_1: "09:30 - rejestracja"
+    day1_2: "10:00 - pierwsza runda"
+    day1_3: "11:45 - druga runda"
+    day1_4: "13:30   - przerwa obiadowa"
+    day1_5: "14:15 - trzecia runda"
+    day1_6: "16:00 - czwarta runda"
+    day1_7: "17:45 - Zakończenie"
+  rules:
+    name: Szczegóły
+    rule_1: "Organizatorzy: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_2: "Sędzia: Adam Białożyt"
+    rule_3: "Klasa turnieju: C"
+    rule_4: "Rundy: 4"
+    rule_5: "Czas: 25 min + 10s byo-yomi"
+    rule_6: "System: MacMahon"
+    rule_7: "Zasady: japońskie, 6.5 komi"
+    rule_8: "Handicap redukowany o 2"
+    rule_9: "Spóźnienie 15 min oznacza poddanie gry"
+    rule_10: "Wpisowe: 25 zł"
+    rule_10: "Nagrody: pieniężne oraz vouchery od AI Sensei"
+  registration:
+    name: Zapisy
+    info: Gracze zarejestrowani mają pierwszeństwo w przypadku osiągnięcia maksymalnego limitu graczy
+  registred:
+    name: Zarejestrowani
+  sponsors:
+    name: Sponsorzy
+    sponsor_1: AI Sensei

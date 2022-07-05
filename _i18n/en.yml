@@ -87,3 +87,53 @@ tournament_2022:
     sponsor_1: Omni Calculator
   contact:
     name: Contact
+
+
+mini-1:
+  navbar:
+    title: Summer Crocow Tournament
+    nav_1: Venue
+    nav_2: Details
+    nav_3: Schedule
+    nav_4: Registration
+    nav_5: Sponsors
+    nav_6: Contact
+  header:
+    name: Summer Crocow Tournament
+    date: Cracow <br> 6 August 2022
+  info:
+    name: Venue
+    place_1: Shop Gracz
+    place_2: "ul. Bolesława Limanowskiego 16"
+    place_3: 30-534 Kraków
+  harmonogram:
+    name: Schedule
+    day1_header: "6 August 2022 - Saturday"
+    day1_1: "09:30 - registration"
+    day1_2: "10:00 - first round"
+    day1_3: "11:45 - second round"
+    day1_4: "13:30 - lunch break"
+    day1_5: "14:15 - third round"
+    day1_6: "16:00 - fourth round"
+    day1_7: "17:45 - results announcement, prizegiving"
+  rules:
+    name: Details
+    rule_1: "Organisers: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_2: "Tournament's main referee: Adam Białożyt"
+    rule_3: "Tournament class: C"
+    rule_4: "Rounds: 4"
+    rule_5: "Time: 25 min + 10s byo-yomi"
+    rule_6: "System: MacMahon"
+    rule_7: "Ruleset: japońskie, 6.5 komi"
+    rule_8: "Handicap reducted by 2"
+    rule_9: "15 min delay is treated as game forfeiting"
+    rule_10: "Entry fee: 25 zł"
+    rule_10: "Prizes: Money, vouchers from AI Sensei"
+  registration:
+    name: Registration
+    info: Registered players
+  registred:
+    name: Registered Players
+  sponsors:
+    name: Sponsors
+    sponsor_1: AI Sensei

@@ -1,0 +1,116 @@
+---
+layout: tournament
+title: "Wakacyjny Turniej Krakowski"
+map_link: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10248.85103357987!2d19.9526665!3d50.0448456!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc6417b1f2f072fc!2sShop%20Gracz%20-%20sklep%20z%20grami%20planszowymi%2C%20karcianymi%20i%20bitewnymi!5e0!3m2!1spl!2spl!4v1656874508210!5m2!1spl!2spl"
+---
+
+ <!-- Header -->
+  <header class="masthead">
+    <div class="container d-flex h-100 align-items-center">
+      <div class="mx-auto text-center">
+        <h1 class="text-white mx-auto mt-2 mb-5">{% t 'mini-1.header.name' %}</h1>
+        <h2 class="text-white mx-auto mt-2 mb-5">{% t 'mini-1.header.date' %}</h2>
+        <a href="#info" class="btn btn-light rounded-circle js-scroll-trigger">
+          <i class="fa fa-angle-double-down animated fa-3x"></i>
+        </a>
+
+    </div>
+  </header>
+
+  <!-- meeting Section -->
+  <section id="info" class="meeting-section bg-light">
+    <div class="container">
+    <!-- map -->
+    <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+      <div class="col-xl-8 col-lg-7">
+		<div class="map-responsive">
+		<iframe src={{ page.map_link }}
+     width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</div>
+      </div>
+      <div class="col-xl-4 col-lg-5">
+        <div class="featured-text text-center text-lg-left">
+          <h2>{% t 'mini-1.info.name' %}</h2>
+          <p class="text-black-50 mb-0">
+            {% t 'mini-1.info.place_1' %} <br>
+            {% t 'mini-1.info.place_2' %} <br>
+            {% t 'mini-1.info.place_3' %}
+          </p>
+        </div>
+      </div>
+      </div>
+  </section>
+
+  <section id="rules" class="meeting-section bg-light">
+    <div class="container mx-auto text-center">
+      <h2>{% t 'mini-1.rules.name' %}</h2>
+      <div class="d-flex justify-content-center">
+        <ul class='text-left'>
+          <li>{% t 'mini-1.rules.rule_1' %}</li>
+          <li>{% t 'mini-1.rules.rule_2' %}</li>
+          <li>{% t 'mini-1.rules.rule_3' %}</li>
+          <li>{% t 'mini-1.rules.rule_4' %}</li>
+          <li>{% t 'mini-1.rules.rule_5' %}</li>
+          <li>{% t 'mini-1.rules.rule_6' %}</li>
+          <li>{% t 'mini-1.rules.rule_7' %}</li>
+          <li>{% t 'mini-1.rules.rule_8' %}</li>
+          <li>{% t 'mini-1.rules.rule_9' %}</li>
+          <li>{% t 'mini-1.rules.rule_10' %}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="harmonogram" class="meeting-section bg-light">
+    <div class="container mx-auto text-center">
+      <h2>{% t 'mini-1.harmonogram.name' %}</h2>
+      <b>{% t 'mini-1.harmonogram.day1_header' %}</b>
+      <div class="d-flex justify-content-center">
+        <ul class='text-left'>
+          <li>{% t 'mini-1.harmonogram.day1_1' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_2' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_3' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_4' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_5' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_6' %}</li>
+          <li>{% t 'mini-1.harmonogram.day1_7' %}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="registration" class="meeting-section bg-light">
+    <div class="container mx-auto text-center">
+      <h2> {% t 'mini-1.registration.name' %}</h2>
+      <p><b>{% t 'mini-1.registration.info' %}</b></p>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYXYWnRblaKFr8cAYepN64YDQi3YzPK8gt5KulGWzxl5zDmQ/viewform?embedded=true"
+       width="640" height="1050" frameborder="2" marginheight="0" marginwidth="0">Ładuję…</iframe>
+    </div>
+  </section>
+
+  <section class="meeting-section bg-light">
+    <div class="container mx-auto text-center">
+    <h2> {% t 'mini-1.registred.name' %}</h2>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTObnAChCxrX3Doo1grpWMxeaMQcU9-O4iQeVpa40IvCVE6eEA571S-1daNZXfNpyMu-zAQqrBSNzGM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+    width="640" height="500" frameborder="2" marginheight="0" marginwidth="0">
+    </iframe>
+    </div>
+  </section>
+
+  <section id="sponsors" class="meeting-section bg-light">
+    <div class="container mx-auto text-center">
+      <h2>{% t 'mini-1.sponsors.name' %}</h2>
+      <div class="row">
+        <div class="col-lg-4 mx-auto  mb-5">
+          <a href="https://ai-sensei.com/" target="_blank" role="button" >
+            <img src="/img/ai-sensei-logo.png" class='img-fluid my-auto' alt="" >
+          </a>
+        </div>
+        <div class="col-lg-4 mx-auto  mb-5">
+          <a href="https://shopgracz.pl/" target="_blank" role="button" >
+            <img src="/img/szop-gracz-logo.jpg" class='img-fluid my-auto' alt="" >
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>

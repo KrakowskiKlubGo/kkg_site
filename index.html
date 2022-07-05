@@ -4,12 +4,13 @@ title: "Krakowski Klub Go"
 ---
 
 
+
  <!-- Header -->
   <header class="masthead">
     <div class="container d-flex h-100 align-items-center">
       <div class="mx-auto text-center">
         <img src="../img/dragon_small.png" class='img-fluid' alt="">
-        <h1 class="text-white-50 mx-auto mt-2 mb-5">{% t 'header.name' %}</h1>
+        <h1 class="text-white mx-auto mt-2 mb-5">{% t 'header.name' %}</h1>
         <a href="#intro" class="btn btn-light rounded-circle js-scroll-trigger">
           <i class="fa fa-angle-double-down animated fa-3x"></i>
         </a>
@@ -23,7 +24,7 @@ title: "Krakowski Klub Go"
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">{% t 'intro.header' %}</h2>
-          <p class="text-white-50">{% t 'intro.text_1' %} <a href="https://pl.wikipedia.org/wiki/Go">Go</a>{% t 'intro.text_2' %}</p>
+          <p class="text-white">{% t 'intro.text_1' %} <a href="https://pl.wikipedia.org/wiki/Go">Go</a>{% t 'intro.text_2' %}</p>
         </div>
       </div >
       <img src="../img/goban-cut.png"  class="img-fluid" alt="">
@@ -131,6 +132,15 @@ title: "Krakowski Klub Go"
                 <h4 class="text-white">{% t 'meetings.section_5_header' %}</h4>
                 <p class="mb-0 text-white-50">
                   {% t 'meetings.section_5_text' %}
+                  {% if site.lang == "pl" %}
+                    <a class="js-scroll-trigger" href="{{ site.baseurl_root }}/tournaments/upcoming/">
+                        {% t 'meetings.section_5_2_text' %}
+                    </a>
+                  {% elsif site.lang == "en" %}
+                    <a class="js-scroll-trigger" href="{{ site.baseurl_root }}/en/tournaments/upcoming/">
+                        {% t 'meetings.section_5_2_text' %}
+                    </a>
+                    {% endif %}
                 </p>
                 <hr class="d-none d-lg-block mb-0 ml-0">
               </div>

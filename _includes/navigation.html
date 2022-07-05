@@ -19,11 +19,17 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#contact">{% t 'navbar.contact'%}</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link js-scroll-trigger"href="/{% t 'language.language_reference' %}/tournaments/2022">
-            {% t 'navbar.tournament'%}
-          </a>
-        </li> -->
+        <li class="nav-item">
+          {% if site.lang == "pl" %}
+            <a class="nav-link js-scroll-trigger" href="{{ site.baseurl_root }}/tournaments/upcoming/">
+              {% t 'navbar.tournament'%}
+            </a>
+          {% elsif site.lang == "en" %}
+            <a class="nav-link js-scroll-trigger" href="{{ site.baseurl_root }}/en/tournaments/upcoming/">
+              {% t 'navbar.tournament'%}
+            </a>
+          {% endif %}
+        </li>
         <li class="nav-item">
           {% if site.lang == "pl" %}
             {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
