@@ -100,7 +100,7 @@ mini-1:
     nav_6: Kontakt
   header:
     name: Wakacyjny Turniej Krakowski
-    date: Kraków <br> 6 Sierpnia 2022
+    date: 6 Sierpnia 2022 <br> ul. Bolesława Limanowskiego 16, Kraków
   info:
     name: Miejsce
     place_1: Shop Gracz
@@ -115,10 +115,10 @@ mini-1:
     day1_4: "13:30   - przerwa obiadowa"
     day1_5: "14:15 - trzecia runda"
     day1_6: "16:00 - czwarta runda"
-    day1_7: "17:45 - Zakończenie"
+    day1_7: "17:45 - zakończenie"
   rules:
     name: Szczegóły
-    rule_1: "Organizatorzy: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_1: "Organizatorzy: Adam Białożyt, Maria Kluziak, Jakub Miłkowski"
     rule_2: "Sędzia: Adam Białożyt"
     rule_3: "Klasa turnieju: C"
     rule_4: "Rundy: 4"
@@ -126,12 +126,12 @@ mini-1:
     rule_6: "System: MacMahon"
     rule_7: "Zasady: japońskie, 6.5 komi"
     rule_8: "Handicap redukowany o 2"
-    rule_9: "Spóźnienie 15 min oznacza poddanie gry"
+    rule_9: "Maksymalna liczba grczy: 20"
     rule_10: "Wpisowe: 25 zł"
-    rule_10: "Nagrody: pieniężne oraz vouchery od AI Sensei"
+    rule_11: "Nagrody: pienieżne dla pierwszego miejsca, <br> dla pozostałych uczestników vouchery od AI Sensei"
   registration:
     name: Zapisy
-    info: Gracze zarejestrowani mają pierwszeństwo w przypadku osiągnięcia maksymalnego limitu graczy
+    info: W przypadku osiągnięcia limitu uczestników <br> pierwszeństwo udziału w turnieju przysługuje zarejestrowanym graczom
   registred:
     name: Zarejestrowani
   sponsors:

@@ -27,7 +27,8 @@ meetings:
   section_4_header: Club League
   section_4_text: To make it more interesting, we started league games in our club. Anyone can join it and fight for a beer! More information on our
   section_5_header: We organize tournaments!
-  section_5_text: Cracow tournaments are great opportunity to meet players from all over Poland and fight for ranking points and prizes. Next tournament will be soon!
+  section_5_text: Cracow tournaments are great opportunity to meet players from all over Poland and fight for ranking points and prizes.
+  section_5_2_text: Next tournament in April!
 contact:
   header: Contact with us
 
@@ -88,10 +89,9 @@ tournament_2022:
   contact:
     name: Contact
 
-
 mini-1:
   navbar:
-    title: Summer Crocow Tournament
+    title: Summer Cracow Tournament
     nav_1: Venue
     nav_2: Details
     nav_3: Schedule
@@ -99,8 +99,8 @@ mini-1:
     nav_5: Sponsors
     nav_6: Contact
   header:
-    name: Summer Crocow Tournament
-    date: Cracow <br> 6 August 2022
+    name: Summer Cracow Tournament
+    date: 6 August 2022 <br> ul. Bolesława Limanowskiego 16, Cracow <br>
   info:
     name: Venue
     place_1: Shop Gracz
@@ -115,7 +115,7 @@ mini-1:
     day1_4: "13:30 - lunch break"
     day1_5: "14:15 - third round"
     day1_6: "16:00 - fourth round"
-    day1_7: "17:45 - results announcement, prizegiving"
+    day1_7: "17:45 - results announcement"
   rules:
     name: Details
     rule_1: "Organisers: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
@@ -126,12 +126,12 @@ mini-1:
     rule_6: "System: MacMahon"
     rule_7: "Ruleset: japońskie, 6.5 komi"
     rule_8: "Handicap reducted by 2"
-    rule_9: "15 min delay is treated as game forfeiting"
+    rule_9: "Maximum number of players: 20"
     rule_10: "Entry fee: 25 zł"
-    rule_10: "Prizes: Money, vouchers from AI Sensei"
+    rule_11: "Prizes: Money for the winner,<br> vouchers from AI Sensei for other participants"
   registration:
     name: Registration
-    info: Registered players
+    info: In case of exceeding the competitor limit, <br> the participation precedence is given to preregistered players
   registred:
     name: Registered Players
   sponsors:
