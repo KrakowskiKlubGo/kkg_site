@@ -118,14 +118,14 @@ mini-1:
     day1_7: "17:45 - results announcement"
   rules:
     name: Details
-    rule_1: "Organisers: Adam Białożyt, Maria Kluziak, <br> Marcel Mroczek, Jakub Miłkowski"
+    rule_1: "Organisers: Adam Białożyt, Maria Kluziak, Jakub Miłkowski"
     rule_2: "Tournament's main referee: Adam Białożyt"
     rule_3: "Tournament class: C"
     rule_4: "Rounds: 4"
     rule_5: "Time: 25 min + 10s byo-yomi"
     rule_6: "System: MacMahon"
     rule_7: "Ruleset: japońskie, 6.5 komi"
-    rule_8: "Handicap reducted by 2"
+    rule_8: "Handicap reduced by 2"
     rule_9: "Maximum number of players: 20"
     rule_10: "Entry fee: 25 zł"
     rule_11: "Prizes: Money for the winner,<br> vouchers from AI Sensei for other participants"
