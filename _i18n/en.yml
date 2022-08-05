@@ -52,8 +52,8 @@ tournament_2022:
   harmonogram:
     name: Schedule
     day1_header: "23 April - Saturday"
-    day1_1: "9:00 - registration"
-    day1_2: "9:30 - first round"
+    day1_1: "9:45 - registration"
+    day1_2: "10:00 - first round"
     day1_3: "12:30 - second round"
     day1_4: "16:00 - lunch break"
     day1_5: "16:30 - third round"
