@@ -101,6 +101,8 @@ mini-1:
   header:
     name: Wakacyjny Turniej Krakowski
     date: 6 Sierpnia 2022 <br> ul. Bolesława Limanowskiego 16, Kraków
+  results:
+    name: Wyniki
   info:
     name: Miejsce
     place_1: Shop Gracz

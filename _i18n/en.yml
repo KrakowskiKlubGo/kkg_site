@@ -101,6 +101,8 @@ mini-1:
   header:
     name: Summer Cracow Tournament
     date: 6 August 2022 <br> ul. Bolesława Limanowskiego 16, Cracow <br>
+  results:
+    name: Results
   info:
     name: Venue
     place_1: Shop Gracz
