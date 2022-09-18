@@ -123,11 +123,11 @@ szop-default:
     rule_2: "Tournament's main referee: Adam Białożyt"
     rule_3: "Tournament class: C"
     rule_4: "Rounds: 4"
-    rule_5: "Time: 25 min + 10s byo-yomi"
+    rule_5: "Time: 25 min + 15s byo-yomi"
     rule_6: "System: MacMahon"
     rule_7: "Ruleset: japanese, 6.5 komi"
     rule_8: "Handicap reduced by 2"
-    rule_9: "Maximum number of players: 20"
+    rule_9: "Maximum number of players: 22"
     rule_10: "Entry fee: 25 zł"
     rule_11: "Prizes: Money for the winner,<br> vouchers from AI Sensei for other participants"
   registration:
@@ -143,6 +143,10 @@ szop-custom:
   I:
     date: "6 August 2022"
     date_header: "6 August 2022 - Saturday"
+    rule_5: "Time: 25 min + 10s byo-yomi"
+    rule_9: "Maximum number of players: 20"
+    rule_11: "Prizes: Money for the winner,<br> vouchers from AI Sensei for other participants"
   II:
     date: "22 October 2022"
     date_header: "22 October 2022 - Saturday"
+    rule_11: "Prizes: Vouchers from Shop Gracz,<br>vouchers from Go Magic"

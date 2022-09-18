@@ -123,11 +123,11 @@ szop-default:
     rule_2: "Sędzia: Adam Białożyt"
     rule_3: "Klasa turnieju: C"
     rule_4: "Rundy: 4"
-    rule_5: "Czas: 25 min + 10s byo-yomi"
+    rule_5: "Czas: 25 min + 15s byo-yomi"
     rule_6: "System: MacMahon"
     rule_7: "Zasady: japońskie, 6.5 komi"
     rule_8: "Handicap redukowany o 2"
-    rule_9: "Maksymalna liczba graczy: 20"
+    rule_9: "Maksymalna liczba graczy: 22"
     rule_10: "Wpisowe: 25 zł"
     rule_11: "Nagrody: pieniężne dla pierwszego miejsca, <br> dla pozostałych uczestników vouchery od AI Sensei"
   registration:
@@ -143,6 +143,10 @@ szop-custom:
   I:
     date: "6 Sierpnia 2022"
     date_header: "6  Sierpnia 2022 - Sobota"
+    rule_5: "Czas: 25 min + 10s byo-yomi"
+    rule_9: "Maksymalna liczba graczy: 20"
+    rule_11: "Nagrody: pieniężne dla pierwszego miejsca, <br> dla pozostałych uczestników vouchery od AI Sensei"
   II:
     date: "22 Paździenika 2022"
     date_header: "22 Paździenika 2022 - Sobota"
+    rule_11: "Nagrody: Vouchery od Shopa gracza,<br>vouchery od Go Magic"

@@ -4,8 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="">
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:image" content="/img/dragon_small.png">
+  <meta property="og:title" content="{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}">
+  <meta property="og:image" content="/img/jenot_small.png">
+  <meta property="og:url" content="https://krakow.go.art.pl/tournaments/upcoming/">
+  <meta property="og:description" content="Strona opisująca turniej Krakowskiego Klubu Go">
+
+
 
   <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
