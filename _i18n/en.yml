@@ -89,18 +89,18 @@ tournament_2022:
   contact:
     name: Contact
 
-mini-1:
+szop-default:
   navbar:
-    title: Summer Cracow Tournament
-    nav_1: Venue
-    nav_2: Details
-    nav_3: Schedule
-    nav_4: Registration
-    nav_5: Sponsors
-    nav_6: Contact
+    nav_1: Results
+    nav_2: Venue
+    nav_3: Details
+    nav_4: Schedule
+    nav_5: Registration
+    nav_6: Sponsors
+    nav_7: Contact
   header:
-    name: Summer Cracow Tournament
-    date: 6 August 2022 <br> ul. Bolesława Limanowskiego 16, Cracow <br>
+    name: Tournament in shop
+    address: ul. Bolesława Limanowskiego 16, Cracow <br>
   results:
     name: Results
   info:
@@ -110,7 +110,6 @@ mini-1:
     place_3: 30-534 Kraków
   harmonogram:
     name: Schedule
-    day1_header: "6 August 2022 - Saturday"
     day1_1: "09:45 - registration"
     day1_2: "10:00 - first round"
     day1_3: "11:45 - second round"
@@ -126,7 +125,7 @@ mini-1:
     rule_4: "Rounds: 4"
     rule_5: "Time: 25 min + 10s byo-yomi"
     rule_6: "System: MacMahon"
-    rule_7: "Ruleset: japońskie, 6.5 komi"
+    rule_7: "Ruleset: japanese, 6.5 komi"
     rule_8: "Handicap reduced by 2"
     rule_9: "Maximum number of players: 20"
     rule_10: "Entry fee: 25 zł"
@@ -139,3 +138,11 @@ mini-1:
   sponsors:
     name: Sponsors
     sponsor_1: AI Sensei
+
+szop-custom:
+  I:
+    date: "6 August 2022"
+    date_header: "6 August 2022 - Saturday"
+  II:
+    date: "22 October 2022"
+    date_header: "22 October 2022 - Saturday"

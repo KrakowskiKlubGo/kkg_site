@@ -1,6 +1,6 @@
 language:
   second_language_reference: en
-  language_reference: ""
+  language_reference: "pl"
   second_language: English
 header:
   name: Krakowski Klub Go
@@ -89,18 +89,18 @@ tournament_2022:
   contact:
     name: Kontakt
 
-mini-1:
+szop-default:
   navbar:
-    title: Jednodniowy turniej handicapowy
-    nav_1: Miejsce
-    nav_2: Szczegóły
-    nav_3: Harmonogram
-    nav_4: Zapisy
-    nav_5: Sponsorzy
-    nav_6: Kontakt
+    nav_1: Wyniki
+    nav_2: Miejsce
+    nav_3: Szczegóły
+    nav_4: Harmonogram
+    nav_5: Zapisy
+    nav_6: Sponsorzy
+    nav_7: Kontakt
   header:
-    name: Wakacyjny Turniej Krakowski
-    date: 6 Sierpnia 2022 <br> ul. Bolesława Limanowskiego 16, Kraków
+    name: Turniej w Szopie
+    address: ul. Bolesława Limanowskiego 16, Kraków
   results:
     name: Wyniki
   info:
@@ -110,7 +110,6 @@ mini-1:
     place_3: 30-534 Kraków
   harmonogram:
     name: Harmonogram
-    day1_header: "6 Sierpnia 2022 - Sobota"
     day1_1: "09:45 - rejestracja"
     day1_2: "10:00 - pierwsza runda"
     day1_3: "11:45 - druga runda"
@@ -139,3 +138,11 @@ mini-1:
   sponsors:
     name: Sponsorzy
     sponsor_1: AI Sensei
+
+szop-custom:
+  I:
+    date: "6 Sierpnia 2022"
+    date_header: "6  Sierpnia 2022 - Sobota"
+  II:
+    date: "22 Paździenika 2022"
+    date_header: "22 Paździenika 2022 - Sobota"
