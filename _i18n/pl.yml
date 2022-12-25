@@ -147,6 +147,10 @@ szop-custom:
     rule_9: "Maksymalna liczba graczy: 20"
     rule_11: "Nagrody: pieniężne dla pierwszego miejsca, <br> dla pozostałych uczestników vouchery od AI Sensei"
   II:
-    date: "22 Paździenika 2022"
+    date: "22 Października 2022"
     date_header: "22 Paździenika 2022 - Sobota"
     rule_11: "Nagrody: Vouchery od Shopa gracza,<br>vouchery od Go Magic"
+  III:
+    date: "21 Stycznia 2023"
+    date_header: "21 Stycznia 2023 - Sobota"
+    rule_11: "Nagrody: Vouchery od Shopa gracza,<br>vouchery od Go Magic"  
